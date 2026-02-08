@@ -81,8 +81,3 @@ Ejemplo rápido de flujo de trabajo
 - Copia y edita `lv_conf_template.h` → `lv_conf.h` en la carpeta del sketch con 480×320.
 - Abre `TouchLedLVGL/TouchLedLVGL.ino` (o el `PruebaTactil` que prefieras), ajusta si hay defines de pines, compila y sube.
 
-¿Quieres que haga esto por ti?
-- Puedo: 1) editar un ejemplo de `User_Setup.h` con pines por defecto, 2) generar un `lv_conf.h` mínimo y colocarlo en la carpeta del sketch elegido, 3) modificar el `.ino` seleccionado para que use esa configuración. Indícame cuál `.ino` quieres usar como tester.
-
----
-Archivo creado: `README-ESP32-LVGL.md` (este documento).
